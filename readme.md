@@ -6,5 +6,3 @@
 #### [Github](https://github.com/diogomainardes/dio-spiderman)
 
 ### [Fancybox](https://fancyapps.com/fancybox/)
-
-###
